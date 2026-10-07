@@ -1,0 +1,25 @@
+Product,Category,Quantity,Price,Sales,Region
+Laptop,Electronics,2,899.00,1798.00,North
+Smartphone,Electronics,5,699.00,3495.00,South
+Headphones,Electronics,12,79.00,948.00,East
+Office Chair,Furniture,3,249.00,747.00,West
+Notebook,Stationery,30,4.50,135.00,North
+Desk,Furniture,2,329.00,658.00,South
+Laptop,Electronics,1,899.00,899.00,East
+Smartphone,Electronics,3,699.00,2097.00,West
+Headphones,Electronics,8,79.00,632.00,North
+Office Chair,Furniture,4,249.00,996.00,South
+Notebook,Stationery,40,4.50,180.00,East
+Desk,Furniture,1,329.00,329.00,West
+Smartphone,Electronics,2,699.00,1398.00,North
+Laptop,Electronics,1,899.00,899.00,South
+Office Chair,Furniture,2,249.00,498.00,East
+Headphones,Electronics,15,79.00,1185.00,West
+Desk,Furniture,3,329.00,987.00,North
+Notebook,Stationery,25,4.50,112.50,South
+Smartphone,Electronics,4,699.00,2796.00,East
+Laptop,Electronics,2,899.00,1798.00,West
+Office Chair,Furniture,1,249.00,249.00,North
+Headphones,Electronics,10,79.00,790.00,South
+Desk,Furniture,2,329.00,658.00,East
+Notebook,Stationery,35,4.50,157.50,West
